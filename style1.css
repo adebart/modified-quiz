@@ -148,7 +148,7 @@ p{
         margin-left: 2vw;
     }
     #qwe{
-        width: 50%;
+        /* width: 50%; */
     }
     #popo{
         font-size: 20px;
@@ -188,6 +188,7 @@ p{
     }
     #popo{
         /* margin-left: 0px; */
+        margin-top: 25px;
         font-size: 15px;
     }
     .tfe{
