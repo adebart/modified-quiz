@@ -10,6 +10,7 @@ body{
 }
 .div5{
     /* background-color: white; */
+    border-radius: 40px;
     background-image: url(image/ccbc41ae14beab3535ce6da7d2e42124.jpg);
 }
 input{
